@@ -1,5 +1,6 @@
 ## Hi there 👋                                                                                                                                                                                                                                                      
 <ins> Juan Pablo Jimenez </ins>
+** estudio bio ingenieria ** en la universidad Santo Tomas 
 <!--
 **juanpablojimenez20/juanpablojimenez20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
