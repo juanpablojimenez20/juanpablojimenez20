@@ -1,5 +1,7 @@
-## Hi there 👋                                                                                                                                                                                                                                                      
-<ins> Juan Pablo Jimenez </ins>
+## Hi there 👋 👌                                                                                                                                                                                                                                                  
+Mi nombre es Juan Pablo Jimenez
+***Tengo 20 años estudio bioingenieria en la Universidad Santo Tomás***
+
 <!--
 **juanpablojimenez20/juanpablojimenez20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
